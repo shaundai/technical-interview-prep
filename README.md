@@ -4,7 +4,7 @@
 ## Getting the Interview
 
 ### Talks
-[Standing out as a Non-Traditional Applicant](https://egghead.io/talks/egghead-standing-out-as-a-non-traditional-applicant), Shaundai Person
+**[Standing out as a Non-Traditional Applicant](https://egghead.io/talks/egghead-standing-out-as-a-non-traditional-applicant)**, Shaundai Person
 
 ## Acing the Interview
 
