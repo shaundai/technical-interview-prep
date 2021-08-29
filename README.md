@@ -18,4 +18,4 @@
 ### Talks
 
 ### eBooks
-[De-Coding the Technical Interview Process](https://technicalinterviews.dev/)Emma Bostian
+**[De-Coding the Technical Interview Process](https://technicalinterviews.dev/)**, Emma Bostian
