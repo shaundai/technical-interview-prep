@@ -12,6 +12,7 @@
 
 **[If Your Tech Interview is Three Tech Interviews in a Trench Coat and I Do Five is it Additive or Exponential](https://laurieontech.com/posts/job-search/)**
 **, Laurie Barth
+
 **[Standing Out LOUDER in the Technical Interview](https://cole.codes/posts/standing-out-louder-in-the-technical-interview)**, Cole Turner
 
 
