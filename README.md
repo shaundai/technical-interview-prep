@@ -3,7 +3,12 @@
 
 ## Getting the Interview
 
+Talks
 - **[Standing out as a Non-Traditional Applicant](https://egghead.io/talks/egghead-standing-out-as-a-non-traditional-applicant)**, Shaundai Person
+- **[How Social Media Can Land You Your Dream Job](https://egghead.io/talks/egghead-how-social-media-can-land-you-your-dream-job)**, Taylor Desseyn
+
+Courses
+- **Writing a Tech Resume(https://www.linkedin.com/learning/writing-a-tech-resume)**, Emma Bostian
 
 ## Acing the Interview
 
@@ -11,9 +16,10 @@
 ### What to Expect & How to Prep
 
 
-eBooks
+eBooks/Books
 
 - **[De-Coding the Technical Interview Process](https://technicalinterviews.dev/)**, Emma Bostian
+- **[Cracking the Coding Interview](https://www.crackingthecodinginterview.com/),** Gayle Laakmann McDowell
 
 Blog Posts
 
