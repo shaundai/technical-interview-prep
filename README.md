@@ -1,4 +1,4 @@
-# Resources to Help You Prep for a Technical Interview
+# Technical Interview Resources
 
 
 ## Getting the Interview
