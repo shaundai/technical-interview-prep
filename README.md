@@ -8,7 +8,7 @@ Talks
 - **[How Social Media Can Land You Your Dream Job](https://egghead.io/talks/egghead-how-social-media-can-land-you-your-dream-job)**, Taylor Desseyn
 
 Courses
-- **Writing a Tech Resume(https://www.linkedin.com/learning/writing-a-tech-resume)**, Emma Bostian
+- **[Writing a Tech Resume](https://www.linkedin.com/learning/writing-a-tech-resume)**, Emma Bostian
 
 ## Acing the Interview
 
