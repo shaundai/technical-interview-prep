@@ -3,7 +3,7 @@
 
 ## Getting the Interview
 
-**[Standing out as a Non-Traditional Applicant](https://egghead.io/talks/egghead-standing-out-as-a-non-traditional-applicant)**, Shaundai Person
+- **[Standing out as a Non-Traditional Applicant](https://egghead.io/talks/egghead-standing-out-as-a-non-traditional-applicant)**, Shaundai Person
 
 ## Acing the Interview
 
@@ -20,13 +20,13 @@ Blog Posts
 - **[If Your Tech Interview is Three Tech Interviews in a Trench Coat and I Do Five is it Additive or Exponential](https://laurieontech.com/posts/job-search/)**, Laurie Barth
 
 - **[Standing Out LOUDER in the Technical Interview](https://cole.codes/posts/standing-out-louder-in-the-technical-interview)**, Cole Turner
-- - **[Facebook senior software engineer interview: the only post you’ll need to read](https://daqo.medium.com/facebook-senior-software-engineer-interview-the-only-post-youll-need-to-read-e4604ff2336d)**, David Qorashi
+- **[Facebook senior software engineer interview: the only post you’ll need to read](https://daqo.medium.com/facebook-senior-software-engineer-interview-the-only-post-youll-need-to-read-e4604ff2336d)**, David Qorashi
 
 Podcast Episodes
 
 - **[Whiteboarding for our drinks - The coding interview](https://podcasts.apple.com/dk/podcast/episode-108-whiteboarding-for-our-drinks-coding-interview/id1089047924?i=1000486229327)**, Front End Happy Hour
 - **[Stumped! Interview Questions](https://syntax.fm/show/071/hasty-treat-stumped-interview-questions)**, Syntax.fm Podcast
-- **[Front End Interviews]**(https://www.ladybug.dev/episodes/frontend-interviews), Ladybug Podcast
+- **[Front End Interviews](https://www.ladybug.dev/episodes/frontend-interviews)**, Ladybug Podcast
 
 Talks
 
