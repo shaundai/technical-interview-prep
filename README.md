@@ -1,5 +1,8 @@
 # Technical Interview Resources
 
+## Finding the Role
+- **[Diversity Tech Job Board](https://www.diversifytech.co/job-board/)**, Veni Kunche
+
 
 ## Getting the Interview
 
