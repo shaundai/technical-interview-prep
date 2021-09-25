@@ -2,7 +2,8 @@
 
 ## Finding the Role
 - **[Diversity Tech Job Board](https://www.diversifytech.co/job-board/)**, Veni Kunche
-
+- **[Taylor Desseyn Job Board](https://www.taylordesseyn.com/job-board)**, Taylor Desseyn
+- **[Joe's Jobs](https://pallet.xyz/list/joes-jobs/jobs)**, Joe Previte
 
 ## Getting the Interview
 
