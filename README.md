@@ -57,3 +57,7 @@ Courses
 
 Podcast Episodes
 - [Data Structures & Algorithms](https://www.ladybug.dev/episodes/data-structures-and-algorithms), Ladybug Podcast
+
+
+### Interviewing at Netflix
+- [Compressed.fm - Shaundai Person talks about Interviewing at Netflix](https://www.compressed.fm/episode/52), Shaundai Person and James Q. Quick
